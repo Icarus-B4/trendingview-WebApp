@@ -3,8 +3,8 @@
 # Trendingview WebAPP
 
 **Brave Browser** 
-          - 1. Go to extension use Tempermonkey search for the right script to use  or just (simple) use the provided Brave shield.
-          - 2. Go to Brave Tab "Customization and settings" and install the Website as an App...
+     - 1. Gehe zur Erweiterung, nutze die Tempermonkey Extension und suche nach dem richtigen Skript/ oder benutze (einfach) das bereitgestellte Brave-Schild. 
+     - 2. Gehe zum Brave-Tab "Anpassung und Einstellungen" und installiere die Website als App...
           
 
 > [!NOTE]
