@@ -1,7 +1,9 @@
 # AdBlocker for Trendingview
 ![Banner](asset/screenshot.png)
-# use WebAPP Instead of Desktop Version (with Brave AdBlock Shield)
-**Brave Browser** 
+# Use WebAPP Instead of Desktop Version (with Brave AdBlock Shield)
+
+> [!TIP]
+**Brave Browser**
 -  1 Navigate to https://de.tradingview.com](https://de.tradingview.com/chart/2ON7dxhn/
 -  2 Go to extension use TempermonkeyScript search at you own for the right script to use, or just use the provided Brave shield, it's simpler.
 -  3 Go to Brave Tab "Customization and settings" and install the Website as an App...
@@ -12,9 +14,12 @@
     <td><img src="asset/screenshot_settings.png" alt="Settings" width="400"/></td>
   </tr>
 </table>
+
 > [!NOTE]
-> This project is for educational purposes only. Please support the developers of trendingview by purchasing a license if you use the software productively.
-![Tradingview](https://de.tradingview.com/pricing/?source=chart&feature=burger_menu_profile_info)
+> This project is for educational purposes only. 
+Please support the developers of trendingview by purchasing a license if you use the software productively.
+
+[Trendingview](https://de.tradingview.com/pricing/?source=chart&feature=burger_menu_profile_info)
 
 ---
 Generated with ❤️ by Icarus-B4 Deepmind Agent
