@@ -1,7 +1,7 @@
 ![Banner](asset/screenshot.png)
-# Trendingview WebAPP/ Instead Desktop Version (AdBlocker)
+# AdBlocker for Trendingview / use WebAPP Instead of Desktop Version (with Brave AdBlock Shield)
 **Brave Browser** 
-- 1. Go to extension use Tempermonkey search for the right script to use or just (simple) use the provided Brave shield.
+- 1.Go to extension use TempermonkeyScript search at you own for the right script to use, or just use the provided Brave shield, it's simpler.
 - 2. Go to Brave Tab "Customization and settings" and install the Website as an App...
 <table>
   <tr>
