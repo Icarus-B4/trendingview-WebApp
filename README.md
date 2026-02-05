@@ -14,7 +14,7 @@
 </table>
 > [!NOTE]
 > This project is for educational purposes only. Please support the developers of trendingview by purchasing a license if you use the software productively.
-> [https://de.tradingview.com/pricing/?source=chart&feature=burger_menu_profile_info/](https://de.tradingview.com/pricing/?source=chart&feature=burger_menu_profile_info)
+![Tradingview](https://de.tradingview.com/pricing/?source=chart&feature=burger_menu_profile_info)
 
 ---
 Generated with ❤️ by Icarus-B4 Deepmind Agent
