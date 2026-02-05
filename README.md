@@ -5,6 +5,7 @@
 **Brave Browser** 
           - 1. Go to extension use Tempermonkey search for the right script to use  or just (simple) use the provided Brave shield.
           - 2. Go to Brave Tab "Customization and settings" and install the Website as an App...
+![Trendingview Banner](asset/screenshot_settings.png) ![Trendingview Banner](asset/screenshot_brave_shiel.png)
           
 
 > [!NOTE]
