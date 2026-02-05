@@ -1,5 +1,5 @@
 ![Banner](asset/screenshot.png)
-# Trendingview WebAPP
+# Trendingview WebAPP/ Instead Desktop Version (AdBlocker)
 **Brave Browser** 
 - 1. Go to extension use Tempermonkey search for the right script to use or just (simple) use the provided Brave shield.
 - 2. Go to Brave Tab "Customization and settings" and install the Website as an App...
@@ -11,7 +11,7 @@
   </tr>
 </table>
 > [!NOTE]
-> Dieses Projekt dient nur zu Bildungszwecken. Bitte unterstützen Sie die Entwickler von trendingview, indem Sie eine Lizenz erwerben, wenn Sie die Software produktiv nutzen.
+> This project is for educational purposes only. Please support the developers of trendingview by purchasing a license if you use the software productively.
 > [https://de.tradingview.com/pricing/?source=chart&feature=burger_menu_profile_info/](https://de.tradingview.com/pricing/?source=chart&feature=burger_menu_profile_info)
 
 ---
